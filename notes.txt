@@ -1,0 +1,16 @@
+tommylincoln.net -- Notes
+
+This is the project that involves designing my own website. I already have the
+domain tommylincoln.net, with hostgator, which seems to have some pretty cool
+features. The site has been sitting there for like over a year and has nothing
+more than a simple "Hello, world!"-type statement.
+
+To start with, I can fill this site with my ideas, my story, my day-to-day,
+pictures of me, Nikita, my computer stuff... links to my github and
+bitbucket sites, facebook, d-land, myspace; talk about what I like; what
+I'm working on; be able to download my resume and discuss the kinds of work
+I'm into and what I'm looking for.
+
+I can also play with some scripting, databases, etc. Maybe create user
+accounts, ...)
+
