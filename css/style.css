@@ -10,10 +10,12 @@ header {
 }
 
 .hdr-img {
+    width: 33%;
 }
 
 .hdr-title {
-  text-align: center;
+    width: 33%;
+    text-align: center;
 }
 
 
